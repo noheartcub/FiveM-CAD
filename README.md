@@ -1,7 +1,3 @@
-Here's a description you can use for your GitHub repository:
-
----
-
 # FiveM CAD System
 
 Welcome to the FiveM CAD (Computer-Aided Dispatch) System! This project is designed to provide a comprehensive and efficient management solution for law enforcement, emergency services, and dispatch operations within the FiveM gaming community.
